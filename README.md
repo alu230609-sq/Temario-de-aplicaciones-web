@@ -1,17 +1,14 @@
-Accede a GitHub y crea un repositorio llamado Temario de Aplicaciones Web con el archivo README en donde investigarás con imágenes los temas propuestos.
+# **Propósito de Aprendizaje 1: Comprender los fundamentos del desarrollo de aplicaciones web.**
+1.-**Introducción al desarrollo web**
+- Historia y evolución del desarrollo web: La historia del desarrollo web comienza con Tim Berners-Lee en 1989, quien creó la World Wide Web para compartir información científica, desarrollando HTML, HTTP y URL, y publicando el primer sitio web en 1991. La evolución de la web abarca desde la Web 1.0 (estática y basada en texto) hacia la Web 2.0 (interactiva y social), la Web 3.0 (con IA y personalización) y la futura Web 4.0 (integrada con la tecnología). Hitos clave incluyen el uso de tablas para diseño en 1992, la introducción de CSS y JavaScript a fines de los 90, y el auge del diseño web adaptable en la década de 2010.
+-Tipos de aplicaciones web (estáticas, dinámicas, SPA, PWA): Las aplicaciones web se clasifican en: **estáticas** (contenido fijo), **dinámicas** (contenido generado por el servidor y personalizable), **Aplicaciones Web de Página Única** (SPA) (carga un solo HTML y actualiza contenido sin recargar la página) y **Aplicaciones Web Progresivas** (PWA) (combinan lo mejor de las apps web y nativas, con funciones como acceso sin conexión y notificaciones push). 
 
-Propósito de Aprendizaje 1: Comprender los fundamentos del desarrollo de aplicaciones web.
-
-1.-Introducción al desarrollo web
-Historia y evolución del desarrollo web
-Tipos de aplicaciones web (estáticas, dinámicas, SPA, PWA)
-
-2.Arquitectura de aplicaciones web
-Cliente-Servidor
+2.-**Arquitectura de aplicaciones web**
+- Cliente-Servidor
 Arquitectura de tres capas (presentación, lógica, datos)
 REST y API-first design
 
-3. -Lenguajes y tecnologías fundamentales
+-Lenguajes y tecnologías fundamentales
 HTML, CSS, JavaScript, PHP, MySQL
 
 4.-Control de versiones
